@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwx2S2cGjs7ykhQFraoJkxyFMOv/MWB3myjOZd04YdTzRa+724BjmQjP9dfynigi1CLNo4I5gNujlfBXTSsGsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER PC\\Desktop\\Нова папка\\SirmaTaskCal\\SirmaTaskCal.Common\\SirmaTaskCal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vasil-Stoyanov-employees.Web.props" />
+</Project>
